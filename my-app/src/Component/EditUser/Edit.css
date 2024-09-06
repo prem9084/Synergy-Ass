@@ -1,0 +1,19 @@
+.edit-user {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 12rem !important;
+  border: 1px solid black;
+  width: 50%;
+  border-radius: 1rem;
+}
+
+.edit-form {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  gap: 1rem !important;
+}
+.edit-form input {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
